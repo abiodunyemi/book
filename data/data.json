@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "title": "Intro to Crypto (2000)",
+      "author": "Abiodun Adeyemi",
+      "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
+      "basePriceUSD": 29.99,
+      "discountedPriceUSD": 19.99,
+      "bookCoverUrl": "assets/book-cover-mockup.png",
+      "buyLinks": [
+        {
+          "label": "Buy on Amazon",
+          "url": "https://amazon.com/your-book-link"
+        },
+        {
+          "label": "Buy with Paystack",
+          "url": "https://paystack.com/your-book-link"
+        }
+      ]
+    },
+    {
+      "title": "Crypto Advanced",
+      "author": "Abiodun Adeyemi",
+      "description": "Take your crypto knowledge to the next level.",
+      "basePriceUSD": 39.99,
+      "discountedPriceUSD": 29.99,
+      "bookCoverUrl": "assets/crypto-advanced-cover.png",
+      "buyLinks": [
+        {
+          "label": "Buy on Selar",
+          "url": "https://selar.co/your-book-link"
+        }
+      ]
+    }
+  ],
+  "currencies": {
+    "USD": {
+      "name": "US Dollar",
+      "symbol": "$",
+      "rate": 1
+    },
+    "GBP": {
+      "name": "British Pound",
+      "symbol": "£",
+      "rate": 0.82
+    },
+    "EUR": {
+      "name": "Euro",
+      "symbol": "€",
+      "rate": 0.93
+    },
+    "NGN": {
+      "name": "Nigerian Naira",
+      "symbol": "₦",
+      "rate": 1480
+    },
+    "CAD": {
+      "name": "Canadian Dollar",
+      "symbol": "$",
+      "rate": 1.37
+    }
+  }
+}
