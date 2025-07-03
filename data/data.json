@@ -59,5 +59,27 @@
       "symbol": "$",
       "rate": 1.37
     }
-  }
+  },
+  "socialMedia": [
+    {
+      "platform": "Twitter",
+      "icon": "fab fa-twitter",
+      "url": "https://twitter.com/yourprofile"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin",
+      "url": "https://linkedin.com/in/yourprofile"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "fab fa-facebook",
+      "url": "https://facebook.com/yourprofile"
+    },
+    {
+      "platform": "Email",
+      "icon": "fas fa-envelope",
+      "url": "mailto:your@email.com"
+    }
+  ]
 }
