@@ -6,7 +6,7 @@
       "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
       "basePriceUSD": 70,
       "discountedPriceUSD": 7,
-      "bookCoverUrl": "assets/book-cover-mockup.png",
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/1751595985401_5996795791974451396.jpg",
       "buyLinks": [
         {
           "label": "Buy on Amazon",
@@ -31,6 +31,26 @@
           "url": "https://selar.co/your-book-link"
         }
       ]
+    },
+    {
+      "id": "book-1751595991352",
+      "title": "",
+      "author": "",
+      "description": "",
+      "basePriceUSD": 0,
+      "discountedPriceUSD": 0,
+      "bookCoverUrl": "",
+      "buyLinks": []
+    },
+    {
+      "id": "book-1751595997712",
+      "title": "",
+      "author": "",
+      "description": "",
+      "basePriceUSD": 0,
+      "discountedPriceUSD": 0,
+      "bookCoverUrl": "",
+      "buyLinks": []
     }
   ],
   "currencies": {
