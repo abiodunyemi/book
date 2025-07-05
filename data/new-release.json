@@ -1,1 +1,23 @@
-{}
+{
+  "title": "Intro to Crypto 200",
+  "author": "Abiodun Adeyemi",
+  "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
+  "category": "cryptocurrency",
+  "basePriceUSD": 10,
+  "discountedPriceUSD": 5,
+  "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/new_release_5118827790030974546.jpg",
+  "buyLinks": [
+    {
+      "label": "Buy on Amazon",
+      "url": "https://www.amazon.com/SAMSUNG-Adjustable-Equalizer-Flicker-Free-LS27DG302ENXZA/dp/B0D5ZKSR9C/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.860dbf94-9f09-4ada-8615-32eb5ada253a&dib=eyJ2IjoiMSJ9.xRH7kmUunGhxLyA1nv2d5HmqIwWF3x5EcyqwCT3oyUqvNOHntw3KAyF5OJEgpAvXnEDnlFVeL_E8Ex2w6ksY4CcfrcZBcolucBcEsnmWJygOxQitxavclhdfqoKNWTAhMNO6fD4xai9n3nv6mKngcbxfKF8RKCM9PUo-ssn4H2IrecIgXFCIJvnDd2pob--gWD5i06XxSPEGzHWbaOZDDCM3DO3z7HaHYzwCokluVMXrJaj5KzrW4PAx7S6dzMFEo5uAbsAYP3kQvqa0VhjB03btzw4XmSi8tF-CbTyiMfc.RNj2sFlOEWOgRJtNDaZ0DyA-9kyo319xgSLCYzcRrBw&dib_tag=se&keywords=gaming&pd_rd_r=32a54be1-a30d-420f-9f26-87acfa6c5f4c&pd_rd_w=Bx18m&pd_rd_wg=aRhA9&qid=1751746946&sr=8-2&th=1"
+    },
+    {
+      "label": "Buy with Paystack",
+      "url": "https://www.amazon.com/SAMSUNG-Adjustable-Equalizer-Flicker-Free-LS27DG302ENXZA/dp/B0D5ZKSR9C/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.860dbf94-9f09-4ada-8615-32eb5ada253a&dib=eyJ2IjoiMSJ9.xRH7kmUunGhxLyA1nv2d5HmqIwWF3x5EcyqwCT3oyUqvNOHntw3KAyF5OJEgpAvXnEDnlFVeL_E8Ex2w6ksY4CcfrcZBcolucBcEsnmWJygOxQitxavclhdfqoKNWTAhMNO6fD4xai9n3nv6mKngcbxfKF8RKCM9PUo-ssn4H2IrecIgXFCIJvnDd2pob--gWD5i06XxSPEGzHWbaOZDDCM3DO3z7HaHYzwCokluVMXrJaj5KzrW4PAx7S6dzMFEo5uAbsAYP3kQvqa0VhjB03btzw4XmSi8tF-CbTyiMfc.RNj2sFlOEWOgRJtNDaZ0DyA-9kyo319xgSLCYzcRrBw&dib_tag=se&keywords=gaming&pd_rd_r=32a54be1-a30d-420f-9f26-87acfa6c5f4c&pd_rd_w=Bx18m&pd_rd_wg=aRhA9&qid=1751746946&sr=8-2&th=1"
+    },
+    {
+      "label": "buy",
+      "url": "https://www.amazon.com/SAMSUNG-Adjustable-Equalizer-Flicker-Free-LS27DG302ENXZA/dp/B0D5ZKSR9C/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.860dbf94-9f09-4ada-8615-32eb5ada253a&dib=eyJ2IjoiMSJ9.xRH7kmUunGhxLyA1nv2d5HmqIwWF3x5EcyqwCT3oyUqvNOHntw3KAyF5OJEgpAvXnEDnlFVeL_E8Ex2w6ksY4CcfrcZBcolucBcEsnmWJygOxQitxavclhdfqoKNWTAhMNO6fD4xai9n3nv6mKngcbxfKF8RKCM9PUo-ssn4H2IrecIgXFCIJvnDd2pob--gWD5i06XxSPEGzHWbaOZDDCM3DO3z7HaHYzwCokluVMXrJaj5KzrW4PAx7S6dzMFEo5uAbsAYP3kQvqa0VhjB03btzw4XmSi8tF-CbTyiMfc.RNj2sFlOEWOgRJtNDaZ0DyA-9kyo319xgSLCYzcRrBw&dib_tag=se&keywords=gaming&pd_rd_r=32a54be1-a30d-420f-9f26-87acfa6c5f4c&pd_rd_w=Bx18m&pd_rd_wg=aRhA9&qid=1751746946&sr=8-2&th=1"
+    }
+  ]
+}
