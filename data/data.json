@@ -1,34 +1,14 @@
 {
   "books": [
     {
-      "id": "intro-to-crypto-2000",
-      "title": "Intro to Crypto",
-      "author": "Abiodun Adeyemi",
-      "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
-      "category": "Cryptocurrency",
-      "basePriceUSD": 77,
-      "discountedPriceUSD": 7,
-      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/1751739919925_5996795791974451396.jpg",
-      "buyLinks": [
-        {
-          "label": "Buy on Amazon",
-          "url": "https://amazon.com/your-book-link"
-        },
-        {
-          "label": "Buy with Paystack",
-          "url": "https://paystack.com/your-book-link"
-        }
-      ]
-    },
-    {
       "id": "blockchain-beginners",
       "title": "Blockchain for Beginners",
       "author": "Abiodun Adeyemi",
       "description": "A step-by-step introduction to blockchain technology and its real-world applications.",
       "category": "Blockchain",
-      "basePriceUSD": 24.99,
-      "discountedPriceUSD": 14.99,
-      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/blockchain-beginners.png",
+      "basePriceUSD": 11,
+      "discountedPriceUSD": 7,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/1751743415240_clipart355558.png",
       "buyLinks": [
         {
           "label": "Buy on Paystack",
