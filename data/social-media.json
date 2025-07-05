@@ -1,0 +1,37 @@
+{
+  "authorName": "Jane Doe",
+  "headline": "Bestselling Author",
+  "paragraphs": ["..."],
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "icon": "fa-solid fa-envelope",
+      "url": "mailto:your@email.com"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "fa-brands fa-facebook",
+      "url": "https://facebook.com/yourprofile"
+    },
+    {
+      "platform": "TikTok",
+      "icon": "fa-brands fa-tiktok",
+      "url": "https://tiktok.com/@yourprofile"
+    },
+    {
+      "platform": "Instagram",
+      "icon": "fa-brands fa-instagram",
+      "url": "https://instagram.com/janedoe"
+    },
+    {
+      "platform": "Twitter",
+      "icon": "fa-brands fa-x-twitter",
+      "url": "https://twitter.com/janedoe"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "fa-brands fa-linkedin",
+      "url": "https://linkedin.com/in/yourprofile"
+    }
+  ]
+}
