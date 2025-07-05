@@ -1,10 +1,11 @@
 {
-  "title": "Intro to Crypto 2001",
+  "title": "Intro to Crypto 200",
   "author": "Abiodun Adeyemi",
   "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
+  "category": "cryptocurrency",
   "basePriceUSD": 10,
   "discountedPriceUSD": 5,
-  "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/1751739726180_5996795791974451396.jpg",
+  "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/new_release_5118827790030974546.jpg",
   "buyLinks": [
     {
       "label": "Buy on Amazon",
