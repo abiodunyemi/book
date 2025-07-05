@@ -2,13 +2,13 @@
   "books": [
     {
       "id": "intro-to-crypto-2000",
-      "title": "Intro to Crypto (2000)",
+      "title": "Intro to Crypto",
       "author": "Abiodun Adeyemi",
       "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
       "category": "Cryptocurrency",
-      "basePriceUSD": 29.99,
-      "discountedPriceUSD": 19.99,
-      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/book-cover-mockup.png",
+      "basePriceUSD": 10,
+      "discountedPriceUSD": 7,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/data/covers/1751739919925_5996795791974451396.jpg",
       "buyLinks": [
         {
           "label": "Buy on Amazon",
@@ -67,38 +67,6 @@
           "url": "https://amazon.com/your-defi-book-link"
         }
       ]
-    }
-  ],
-  "socialMedia": [
-    {
-      "platform": "Email",
-      "icon": "fa-solid fa-envelope",
-      "url": "mailto:your@email.com"
-    },
-    {
-      "platform": "Facebook",
-      "icon": "fa-brands fa-facebook",
-      "url": "https://facebook.com/yourprofile"
-    },
-    {
-      "platform": "TikTok",
-      "icon": "fa-brands fa-tiktok",
-      "url": "https://tiktok.com/@yourprofile"
-    },
-    {
-      "platform": "Instagram",
-      "icon": "fa-brands fa-instagram",
-      "url": "https://instagram.com/yourprofile"
-    },
-    {
-      "platform": "Twitter",
-      "icon": "fa-brands fa-twitter",
-      "url": "https://twitter.com/yourprofile"
-    },
-    {
-      "platform": "LinkedIn",
-      "icon": "fa-brands fa-linkedin",
-      "url": "https://linkedin.com/in/yourprofile"
     }
   ]
 }
