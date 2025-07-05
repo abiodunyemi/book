@@ -1,12 +1,14 @@
 {
   "books": [
     {
+      "id": "intro-to-crypto-2000",
       "title": "Intro to Crypto (2000)",
       "author": "Abiodun Adeyemi",
       "description": "Discover the fundamentals of cryptocurrency in this comprehensive guide by Abiodun Adeyemi. Perfect for beginners and enthusiasts alike.",
-      "basePriceUSD": 70,
-      "discountedPriceUSD": 7,
-      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/1751595985401_5996795791974451396.jpg",
+      "category": "Cryptocurrency",
+      "basePriceUSD": 29.99,
+      "discountedPriceUSD": 19.99,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/book-cover-mockup.png",
       "buyLinks": [
         {
           "label": "Buy on Amazon",
@@ -19,87 +21,84 @@
       ]
     },
     {
-      "title": "Crypto Advanced",
+      "id": "blockchain-beginners",
+      "title": "Blockchain for Beginners",
       "author": "Abiodun Adeyemi",
-      "description": "Take your crypto knowledge to the next level.",
-      "basePriceUSD": 39.99,
-      "discountedPriceUSD": 29.99,
-      "bookCoverUrl": "assets/crypto-advanced-cover.png",
+      "description": "A step-by-step introduction to blockchain technology and its real-world applications.",
+      "category": "Blockchain",
+      "basePriceUSD": 24.99,
+      "discountedPriceUSD": 14.99,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/blockchain-beginners.png",
       "buyLinks": [
         {
-          "label": "Buy on Selar",
-          "url": "https://selar.co/your-book-link"
+          "label": "Buy on Paystack",
+          "url": "https://paystack.com/your-book-link"
         }
       ]
     },
     {
-      "id": "book-1751595991352",
-      "title": "",
-      "author": "",
-      "description": "",
-      "basePriceUSD": 0,
-      "discountedPriceUSD": 0,
-      "bookCoverUrl": "",
-      "buyLinks": []
+      "id": "crypto-investing",
+      "title": "Crypto Investing 101",
+      "author": "Abiodun Adeyemi",
+      "description": "Learn how to invest in cryptocurrencies safely and profitably.",
+      "category": "Investing",
+      "basePriceUSD": 34.99,
+      "discountedPriceUSD": 24.99,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/crypto-investing.png",
+      "buyLinks": [
+        {
+          "label": "Buy on GitHub",
+          "url": "https://github.com/abiodunyemi/book"
+        }
+      ]
     },
     {
-      "id": "book-1751595997712",
-      "title": "",
-      "author": "",
-      "description": "",
-      "basePriceUSD": 0,
-      "discountedPriceUSD": 0,
-      "bookCoverUrl": "",
-      "buyLinks": []
+      "id": "defi-explained",
+      "title": "DeFi Explained",
+      "author": "Abiodun Adeyemi",
+      "description": "A practical guide to decentralized finance and how to use DeFi tools.",
+      "category": "DeFi",
+      "basePriceUSD": 27.99,
+      "discountedPriceUSD": 21.99,
+      "bookCoverUrl": "https://raw.githubusercontent.com/abiodunyemi/book/main/assets/defi-explained.png",
+      "buyLinks": [
+        {
+          "label": "Buy on Amazon",
+          "url": "https://amazon.com/your-defi-book-link"
+        }
+      ]
     }
   ],
-  "currencies": {
-    "USD": {
-      "name": "US Dollar",
-      "symbol": "$",
-      "rate": 1
-    },
-    "GBP": {
-      "name": "British Pound",
-      "symbol": "£",
-      "rate": 0.82
-    },
-    "EUR": {
-      "name": "Euro",
-      "symbol": "€",
-      "rate": 0.93
-    },
-    "NGN": {
-      "name": "Nigerian Naira",
-      "symbol": "₦",
-      "rate": 1480
-    },
-    "CAD": {
-      "name": "Canadian Dollar",
-      "symbol": "$",
-      "rate": 1.37
-    }
-  },
   "socialMedia": [
     {
+      "platform": "Email",
+      "icon": "fa-solid fa-envelope",
+      "url": "mailto:your@email.com"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "fa-brands fa-facebook",
+      "url": "https://facebook.com/yourprofile"
+    },
+    {
+      "platform": "TikTok",
+      "icon": "fa-brands fa-tiktok",
+      "url": "https://tiktok.com/@yourprofile"
+    },
+    {
+      "platform": "Instagram",
+      "icon": "fa-brands fa-instagram",
+      "url": "https://instagram.com/yourprofile"
+    },
+    {
       "platform": "Twitter",
-      "icon": "fab fa-twitter",
+      "icon": "fa-brands fa-twitter",
       "url": "https://twitter.com/yourprofile"
     },
     {
       "platform": "LinkedIn",
-      "icon": "fab fa-linkedin",
+      "icon": "fa-brands fa-linkedin",
       "url": "https://linkedin.com/in/yourprofile"
-    },
-    {
-      "platform": "Facebook",
-      "icon": "fab fa-facebook",
-      "url": "https://facebook.com/yourprofile"
-    },
-    {
-      "platform": "Email",
-      "icon": "fas fa-envelope",
-      "url": "mailto:your@email.com"
     }
   ]
 }
